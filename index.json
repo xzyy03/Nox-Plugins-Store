@@ -418,6 +418,27 @@
       "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/一束挽风.wb-gateway_1.6.0.zip",
       "repository": "https://github.com/yintaozhou1/wb2api_android",
       "version": "1.6.0"
+    },
+    {
+      "id": "magpie.gateway",
+      "name": {
+        "default": "Magpie Gateway",
+        "zh-CN": "Magpie 网关"
+      },
+      "description": {
+        "default": "Installs magpie inside the app's Linux environment, keeps its local gateway (or gateway plus web console) running, and adds a native panel for status, start mode, ports, web key and the install proxy. Installs by downloading the release binary directly, verifies its sha256, degrades gracefully when the container has no CA store, and reports exactly why an install failed.",
+        "zh-CN": "在 App 的 Linux 环境里自动安装 magpie，托管它的本地网关（或网关 + 网页控制台），并提供原生面板查看状态、启动/停止、切换启动方式、改端口与网页 key、配置安装代理。安装走直连下载 + sha256 校验，容器缺 CA 包时自动降级，失败时给出具体原因与环境自检。"
+      },
+      "author": "magpie",
+      "repository": "https://github.com/htwdwu/magpie-gateway",
+      "license": "MIT",
+      "tags": [
+        "tool",
+        "ui",
+        "provider"
+      ],
+      "version": "1.6.0",
+      "icon": "server"
     }
   ],
   "schema_version": 1
