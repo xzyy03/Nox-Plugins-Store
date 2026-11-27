@@ -110,5 +110,9 @@
   "一束挽风.wb-gateway": {
     "at": "2026-11-24T06:00:00Z",
     "version": "1.6.0"
+  },
+  "local.session-handoff": {
+    "version": "0.1.0",
+    "at": "2026-11-27T13:12:00Z"
   }
 }
