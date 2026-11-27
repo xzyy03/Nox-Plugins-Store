@@ -403,6 +403,24 @@
       "version": "1.0.0"
     },
     {
+      "author": "一束挽风",
+      "description": {
+        "default": "Automatically reset the context start when a session approaches the upstream turn limit, keeping the full history visible.",
+        "zh-CN": "上游按单会话轮数限制（如 100 轮）时自动重置上下文起点：历史全部保留，只是不再发给模型，让上游当成新对话继续。"
+      },
+      "id": "一束挽风.turn-guard",
+      "license": "MIT",
+      "logo": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/icons/一束挽风.turn-guard.png",
+      "name": {
+        "default": "Turn Guard",
+        "zh-CN": "轮数守卫"
+      },
+      "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/一束挽风.turn-guard_1.1.2.zip",
+      "published_at": "2026-11-27T17:48:29Z",
+      "repository": "https://github.com/demo/nox-turn-guard",
+      "version": "1.1.2"
+    },
+    {
       "author": "yyds0399",
       "description": {
         "default": "Self-contained WorkBuddy gateway: manages accounts, talks to upstream directly, exposes OpenAI-compatible /v1 endpoints.",

@@ -91,6 +91,10 @@
     "at": "2026-11-24T06:00:00Z",
     "version": "1.0.1"
   },
+  "local.session-handoff": {
+    "at": "2026-11-27T13:12:00Z",
+    "version": "0.1.0"
+  },
   "moss.armor-deepseek": {
     "at": "2026-11-24T06:00:00Z",
     "version": "1.1.1"
@@ -107,12 +111,12 @@
     "at": "2026-11-24T06:00:00Z",
     "version": "1.0.0"
   },
+  "一束挽风.turn-guard": {
+    "at": "2026-11-27T17:48:29Z",
+    "version": "1.1.2"
+  },
   "一束挽风.wb-gateway": {
     "at": "2026-11-24T06:00:00Z",
     "version": "1.6.0"
-  },
-  "local.session-handoff": {
-    "version": "0.1.0",
-    "at": "2026-11-27T13:12:00Z"
   }
 }
