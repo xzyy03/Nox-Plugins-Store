@@ -418,6 +418,24 @@
       "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/一束挽风.wb-gateway_1.6.0.zip",
       "repository": "https://github.com/yintaozhou1/wb2api_android",
       "version": "1.6.0"
+    },
+    {
+      "id": "local.session-handoff",
+      "name": {
+        "zh-CN": "会话交接",
+        "default": "Session Handoff"
+      },
+      "description": {
+        "zh-CN": "将当前工作区会话精简为可编辑摘要，保存后带到真正的新会话；不自动发送消息。",
+        "default": "Review and save a bounded conversation summary, then carry it into a fresh chat as an unsent draft."
+      },
+      "author": "local",
+      "repository": "https://github.com/xzyy03/Nox",
+      "license": "MIT",
+      "version": "0.1.0",
+      "published_at": "2026-11-27T13:07:04Z",
+      "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/local.session-handoff_0.1.0.zip",
+      "icon": "repeat"
     }
   ],
   "schema_version": 1
