@@ -415,10 +415,10 @@
         "default": "Turn Guard",
         "zh-CN": "轮数守卫"
       },
-      "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/一束挽风.turn-guard_1.1.2.zip",
-      "published_at": "2026-11-27T17:48:29Z",
+      "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/一束挽风.turn-guard_2.1.0.zip",
+      "published_at": "2026-11-27T18:49:37Z",
       "repository": "https://github.com/demo/nox-turn-guard",
-      "version": "1.1.2"
+      "version": "2.1.0"
     },
     {
       "author": "yyds0399",
