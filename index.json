@@ -436,6 +436,24 @@
       "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/一束挽风.wb-gateway_1.6.0.zip",
       "repository": "https://github.com/yintaozhou1/wb2api_android",
       "version": "1.6.0"
+    },
+    {
+      "id": "jinghan.genesis",
+      "name": {
+        "zh-CN": "破甲 · Genesis",
+        "default": "Genesis for Nox"
+      },
+      "description": {
+        "zh-CN": "Operit Genesis 的 Nox 适配：三档提示词、原生片段挂载、拒答检测与限次重试、配置面板。",
+        "default": "Genesis adapted for Nox with prompt presets, native prompt fragments, refusal detection and bounded retries."
+      },
+      "author": "jinghan",
+      "repository": "https://github.com/zycnbnbnbb/operit-genesis",
+      "license": "MIT",
+      "version": "1.1.0",
+      "published_at": "2026-11-28T08:25:26Z",
+      "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/jinghan.genesis_1.1.0.zip",
+      "icon": "shield"
     }
   ],
   "schema_version": 1
