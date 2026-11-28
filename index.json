@@ -440,19 +440,19 @@
     {
       "id": "jinghan.genesis",
       "name": {
-        "zh-CN": "破甲 · Genesis",
-        "default": "Genesis for Nox"
+        "zh-CN": "破甲 · Genesis 精简版",
+        "default": "Genesis Lite"
       },
       "description": {
-        "zh-CN": "Operit Genesis 的 Nox 适配：三档提示词、原生片段挂载、拒答检测与限次重试、配置面板。",
-        "default": "Genesis adapted for Nox with prompt presets, native prompt fragments, refusal detection and bounded retries."
+        "zh-CN": "只做一件事：把三档提示词纯文本写进 Nox 独立片段。无工具、无重试、无日志。",
+        "default": "Only injects three prompt tiers as plain text into a Nox prompt fragment. No tools, retries or logs."
       },
       "author": "jinghan",
       "repository": "https://github.com/zycnbnbnbb/operit-genesis",
       "license": "MIT",
-      "version": "1.1.0",
-      "published_at": "2026-11-28T08:25:26Z",
-      "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/jinghan.genesis_1.1.0.zip",
+      "version": "2.0.0",
+      "published_at": "2026-11-28T09:25:45Z",
+      "package_url": "https://raw.githubusercontent.com/xzyy03/Nox-Plugins-Store/main/packages/jinghan.genesis_2.0.0.zip",
       "icon": "shield"
     }
   ],
